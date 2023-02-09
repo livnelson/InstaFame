@@ -23,7 +23,7 @@ Database: PostgreSQL
 <img src='https://liv-creative.com/wp-content/uploads/2023/02/InstaFame-Landing.png' alt='InstaFame Login' width='300'>
 
 ## Authors
-Liv Nelson, Cameron Miller, Marco Amador
+Liv Nelson, Cameron Millen, Marco Amador
 
 ## Conclusion
 We hope this application provides a fun and easy way to share and view photos with friends, family, and followers. Enjoy!
