@@ -11,9 +11,9 @@ Welcome to InstaFame, a web application that replicates the basic features of th
 - View other users' profiles and their photos
 
 ## Technologies Used
-React (front-end)
-Ruby on Rails (back-end)
-Database: PostgreSQL
+- React (front-end)
+- Ruby on Rails (back-end)
+- Database: PostgreSQL
 
 ## Future Goals
 - Follow and unfollow other users
