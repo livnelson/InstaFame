@@ -13,7 +13,7 @@ Welcome to InstaFame, a web application that replicates the basic features of th
 ## Technologies Used
 - React (front-end)
 - Ruby on Rails (back-end)
-- Database: PostgreSQL
+- Database: Sinatra
 
 ## Future Goals
 - Follow and unfollow other users
